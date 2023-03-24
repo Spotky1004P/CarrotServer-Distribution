@@ -2,23 +2,23 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1088127590948155543",
-    "smallImageText": "당근서버",
-    "smallImageKey": "logo"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
       "id": "carrotserver-1.19.2",
       "name": "carrotserver (Minecraft 1.19.2)",
       "description": "carrotserver Running Minecraft 1.19.2 (Forge v43.2.0)",
-      "icon": "https://raw.githubusercontent.com/Spotky1004P/CarrotServer-Distribution/main/res/carrotserverlogo.png",
+      "icon": null,
       "version": "1.0.0",
-      "address": "carrotsv.com",
+      "address": "localhost:25565",
       "minecraftVersion": "1.19.2",
       "discord": {
-        "shortId": "1.19.2 / carrotsv.com",
-        "largeImageText": "1.19.2 / carrotsv.com",
-        "largeImageKey": "logo"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -413,6 +413,16 @@
           ]
         },
         {
+          "id": "dqu.additionaladditions:additionaladditions:5.1.0@jar",
+          "name": "Additional Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3828965,
+            "url": "https://github.com/Spotky1004P/CarrotServer-Distribution/raw/main/servers/carrotserver-1.19.2/forgemods/required/additionaladditions-5.1.0.jar",
+            "MD5": "ec391dba233ccc77537774cf1ebb80fa"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:advancementplaques:1.4.7@jar",
           "name": "Advancement Plaques",
           "type": "ForgeMod",
@@ -420,6 +430,16 @@
             "size": 206511,
             "url": "https://github.com/Spotky1004P/CarrotServer-Distribution/raw/main/servers/carrotserver-1.19.2/forgemods/required/AdvancementPlaques-1.19.2-1.4.7.jar",
             "MD5": "b167331abe438731f132eb339ad03682"
+          }
+        },
+        {
+          "id": "me.treyruffy:betterf3:4.0.0@jar",
+          "name": "BetterF3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 449544,
+            "url": "https://github.com/Spotky1004P/CarrotServer-Distribution/raw/main/servers/carrotserver-1.19.2/forgemods/required/BetterF3-4.0.0-Forge-1.19.2.jar",
+            "MD5": "7d0b017c4a601fdc99d99e461b45a2b4"
           }
         },
         {
@@ -570,6 +590,26 @@
             "size": 98732,
             "url": "https://github.com/Spotky1004P/CarrotServer-Distribution/raw/main/servers/carrotserver-1.19.2/forgemods/required/TerraBlender-forge-1.19.2-2.0.1.130.jar",
             "MD5": "870b70e42b9478e869d42388d430be94"
+          }
+        },
+        {
+          "id": "com.rolfmao:upgradedcore:1.19.2-4.1.0.0-release@jar",
+          "name": "Upgraded Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 41196,
+            "url": "https://github.com/Spotky1004P/CarrotServer-Distribution/raw/main/servers/carrotserver-1.19.2/forgemods/required/upgradedcore-1.19.2-4.1.0.0-release.jar",
+            "MD5": "84b34a3b42ca63d0d1ba5977f816b361"
+          }
+        },
+        {
+          "id": "com.rolfmao:upgradednetherite:1.19.2-5.1.0.5-release@jar",
+          "name": "Upgraded Netherite",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1247951,
+            "url": "https://github.com/Spotky1004P/CarrotServer-Distribution/raw/main/servers/carrotserver-1.19.2/forgemods/required/upgradednetherite-1.19.2-5.1.0.5-release.jar",
+            "MD5": "8dfba588422d1e8030512da36c7b8472"
           }
         },
         {
