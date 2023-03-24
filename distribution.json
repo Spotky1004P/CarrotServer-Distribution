@@ -2,23 +2,23 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1088127590948155543",
-    "smallImageText": "당근서버",
-    "smallImageKey": "logo"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
       "id": "carrotserver-1.19.2",
       "name": "carrotserver (Minecraft 1.19.2)",
       "description": "carrotserver Running Minecraft 1.19.2 (Forge v43.2.0)",
-      "icon": "https://raw.githubusercontent.com/Spotky1004P/CarrotServer-Distribution/main/res/carrotserverlogo.png",
+      "icon": null,
       "version": "1.0.0",
-      "address": "carrotsv.com",
+      "address": "localhost:25565",
       "minecraftVersion": "1.19.2",
       "discord": {
-        "shortId": "1.19.2 / carrotsv.com",
-        "largeImageText": "1.19.2 / carrotsv.com",
-        "largeImageKey": "logo"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -550,16 +550,6 @@
             "size": 173519,
             "url": "https://github.com/Spotky1004P/CarrotServer-Distribution/raw/main/servers/carrotserver-1.19.2/forgemods/required/libraryferret-forge-1.19.2-3.0.0.jar",
             "MD5": "9e9733bbfd6e77ea99eca60a46d0ffaf"
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.19.2_HD_U_I1@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6932845,
-            "url": "https://github.com/Spotky1004P/CarrotServer-Distribution/raw/main/servers/carrotserver-1.19.2/forgemods/required/OptiFine_1.19.2_HD_U_I1.jar",
-            "MD5": "23a9a9fa0a24bd214b868d06d2effe95"
           }
         },
         {
