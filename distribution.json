@@ -473,6 +473,16 @@
           }
         },
         {
+          "id": "me.shedaniel.clothconfig:cloth_config:8.2.88@jar",
+          "name": "Cloth Config v8 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1151677,
+            "url": "https://github.com/Spotky1004P/CarrotServer-Distribution/raw/main/servers/carrotserver-1.19.2/forgemods/required/cloth-config-8.2.88-forge.jar",
+            "MD5": "9ad6b6c3b72a0d23d53c7b761782082b"
+          }
+        },
+        {
           "id": "jp.axer.cocoainput.loader:cocoainput:4.1.2-EXPERIMENTAL@jar",
           "name": "CocoaInput",
           "type": "ForgeMod",
