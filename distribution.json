@@ -2,23 +2,23 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1088127590948155543",
+    "smallImageText": "당근서버",
+    "smallImageKey": "logo"
   },
   "servers": [
     {
       "id": "carrotserver-1.19.2",
       "name": "carrotserver (Minecraft 1.19.2)",
       "description": "carrotserver Running Minecraft 1.19.2 (Forge v43.2.0)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Spotky1004P/CarrotServer-Distribution/main/res/carrotserverlogo.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "carrotsv.com",
       "minecraftVersion": "1.19.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1.19.2 / carrotsv.com",
+        "largeImageText": "1.19.2 / carrotsv.com",
+        "largeImageKey": "logo"
       },
       "mainServer": false,
       "autoconnect": false,
